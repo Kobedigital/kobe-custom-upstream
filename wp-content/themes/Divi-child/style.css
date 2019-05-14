@@ -1,0 +1,28 @@
+/*
+
+ Theme Name:   Kobe Digital
+
+ Theme URI:    https://www.kobedigital.com/
+
+ Description:  A Divi child theme
+
+ Author:       Score30
+
+ Author URI:   https://www.kobedigital.com
+
+ Template:     Divi
+
+ Version:      1.0.0
+
+*/
+
+.main-title {
+	color: tomato;
+	font-size: 42px;
+	text-align: center;
+}
+
+
+#footer-bottom {
+	display: none;
+}
